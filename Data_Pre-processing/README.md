@@ -5,7 +5,7 @@
 - Approach: A data-driven workflow that starts with product selection, proceeds to scraping, and ends with data export-ready for analysis.
 
 
-## Here is a quick overview of the steps I followed to gather data for this project:
+### Here is a quick overview of the steps I followed to gather data for this project:
 1. Select Products: Find one Beats product and similar competitor products within similar price range with a good number of reviews.
 2. Scrape Reviews: Use OxyLabs API to scrape the reviews.
 3. Save Data: Download the reviews, load, convert and save them as a CSV file.
