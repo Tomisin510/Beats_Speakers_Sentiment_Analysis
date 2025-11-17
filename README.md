@@ -90,4 +90,6 @@ project/
 │   └── findings_summary.pdf
 └── README.md
 ```
+📌 Outcome
 
+This externship strengthened my capabilities in NLP, consumer insights analysis, Python-based EDA, and data storytelling—leading to actionable insights that support product refinement and future innovation for Beats' audio line.
