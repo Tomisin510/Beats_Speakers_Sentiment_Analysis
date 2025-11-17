@@ -13,7 +13,32 @@
 
 ### Step 1: Data Sourcing - Finding Products to Review
         1. Identify Beats Product: I selected a beats product, 'Beats Pill Speaker' because it had lots f reviews (my aim was for at least 100 reviews, More reviews mean more data for my analysis!) on Amazon. I copied the URL from the address bar because it is my gateway to all those reviews.
-        2. Identify Competitor Products: I selected 11 competitors wo had similar products like the Beats pill Speaker, with similar price range, and a good number of reviews. I copied the URLs of these product pages.
+        2. Identify Competitor Products: I selected 11 competitors who had similar products like the Beats pill Speaker, with similar price range, and a good number of reviews. I copied the URLs of these product pages.
+
+## All 12 Products used
+1. BEATS PILL:
+![Beats Pill Speaker - Matte Black](Images/Beats_Pill_Matte_Black.jpg)
+Beats Pill Bluetooth Speaker and Portable Wireless Charger via USB-C
+
+
+2. ALTEC LANSING:
+![Altec Lansing](Images/Altec_Lansing.jpg)
+Altec Lansing Rockbox XL 2.0 Portable Bluetooth Wireless Speakers
+
+
+3. ANKER SOUNDCORE:
+![Anker Soundcore](Images/Anker_Soundcore.jpg)
+Anker Soundcore Motion+ Bluetooth Speaker with Hi-Res 30W Audio
+
+
+4. BANG & OLUFSEN BEOSOUND:
+![Bang & Olufsen Beosound](Images/Bang_&_Olufsen.jpg)
+Bang & Olufsen Beosound Explore - Wireless Portable Outdoor Bluetooth speaker
+
+ 5. Bose SoundLink Flex
+
+Bose SoundLink Flex Bluetooth Speaker, Portable Speaker with Microphone, Wireless Waterproof Speaker for Travel, Outdoor and Pool Use, Black
+
 
 
 ### Step 2: Data Mining – Collecting Amazon Reviews
