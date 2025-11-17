@@ -1,0 +1,150 @@
+﻿Beats by Dre deliverables
+
+
+1. Provide the name and URL of each product (5 pairs in total). [Eg. Product 1 Name: Beats Solo3 Wireless On-Ear Headphones; Product 1 URL: http://exampleurl.com]. 2. Share the URL to your raw gathered dataset. 3. Provide the URL to your Colab notebook where you cleaned the dataset.
+
+
+ASIN number: B0D4SX9RC6
+Product Name: Beats Pill - Bluetooth Speaker and Portable Wireless Charger via USB-C
+Product URL: https://www.amazon.com/product-reviews/B0D4SX9RC6?reviewerType=all_reviews&pageNumber=1 
+
+
+ASIN number: B09XXW54QG
+Product Name:  Marshall Emberton II Portable Bluetooth Speaker, Black & Brass
+Product URL: https://www.amazon.com/product-reviews/B09XXW54QG?reviewerType=all_reviews&pageNumber=1 
+
+
+ASIN number: B099TJGJ91
+Product Name:  Bose SoundLink Flex Bluetooth Speaker, Portable Speaker with Microphone, Wireless Waterproof Speaker
+Product URL: https://www.amazon.com/product-reviews/B099TJGJ91?reviewerType=all_reviews&pageNumber=1
+
+
+
+
+ASIN number: B08ZNXW53L
+Product Name:  JBL Charge 5 Portable Bluetooth Speaker - 
+Product URL: https://www.amazon.com/product-reviews/B08ZNXW53L?reviewerType=all_reviews&pageNumber=1 
+
+
+
+
+ASIN number: B07DD3WBYW
+Product Name:  Ultimate Ears Boom 3 Portable Waterproof Bluetooth Speaker
+Product URL: https://www.amazon.com/product-reviews/B07DD3WBYW?reviewerType=all_reviews&pageNumber=1 
+
+
+ASIN number: B07P39MLKH
+Product Name:  Anker Soundcore Motion+ Bluetooth Speaker with Hi-Res 30W Audio - 
+Product URL: https://www.amazon.com/product-reviews/B07P39MLKH?reviewerType=all_reviews&pageNumber=1 
+
+
+ASIN number: B086D4JNGM
+Product Name:  Sony SRS-XB33 Extra Bass Bluetooth Speaker 
+Product URL: https://www.amazon.com/product-reviews/B086D4JNGM?reviewerType=all_reviews&pageNumber=1 
+
+
+
+
+ASIN number: B0B43Y8GHZ
+Product Name: Sony SRS-XG300 X-Series Wireless Portable-Bluetooth Party-Speaker
+https://www.amazon.com/product-reviews/B0B43Y8GHZ?reviewerType=all_reviews&pageNumber=1
+
+
+
+
+ASIN number: B09PMYTJD2
+Product Name:  Tribit StormBox Pro Bluetooth Speaker
+Product URL: https://www.amazon.com/product-reviews/B09PMYTJD2?reviewerType=all_reviews&pageNumber=1 
+
+
+ASIN number: B08YRT9T38
+Product Name:  Bang & Olufsen Beosound Explore - Wireless Portable Outdoor Bluetooth speaker
+Product URL: https://www.amazon.com/product-reviews/B08YRT9T38?reviewerType=all_reviews&pageNumber=1 
+
+
+ASIN number: B0CP7YLJ21
+Product Name:  DOSS SoundBox Plus Bluetooth Speaker
+Product URL: https://www.amazon.com/product-reviews/B0CP7YLJ21?reviewerType=all_reviews&pageNumber=1 
+
+
+ASIN number: B0BSNZJGTX
+Product Name:  Altec Lansing Rockbox XL 2.0 Portable Bluetooth Wireless Speakers
+Product URL:  https://www.amazon.com/product-reviews/B0BSNZJGTX?reviewerType=all_reviews&pageNumber=1 
+
+
+
+
+
+
+
+
+URL to raw gathered CSV file: https://drive.google.com/file/d/1v03GGYIl3hAwxPzcglLHQobc4CPtmA4H/view?usp=sharing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ - 
+
+
+ - 
+
+
+ - 
+
+
+ - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q1: Did you have any missing values in your dataset? How did you handle them? Q2: Did you have any outliers in your dataset? How did you handle them? Q3: Why do we convert categorical columns to numerical variables in data cleaning? What is the difference between a nominal variable and an ordinal variable?
+
+
+
+
+
+
+
+
+1. Change df_filled.is_verified to binary
+2. Extract colors from product attributes
+3. Extract date & time from timestamp
+
+
+
+
+Conversion: Converting categorical to numerical variables is necessary for most machine learning algorithms, as they require numerical input. Techniques for conversion include:
+
+
+Label Encoding: Assigning each unique category a numerical value.
+One-Hot Encoding: Creating binary columns for each category, indicating the presence (1) or absence (0) of each category.
+
+
+Difference:
+Nominal Variables: These are categorical variables with no inherent order. Examples include colors (red, blue, green) or types of fruit (apple, banana, orange). In nominal variables, the categories are distinct and do not imply any ranking.
+
+
+Ordinal Variables: These categorical variables have a clear order or ranking but do not have a uniform scale. Examples include ratings (e.g., poor, fair, good, excellent) or survey responses (e.g., strongly disagree to strongly agree). The order matters, but the intervals between the values are not necessarily equal.
+Understanding these distinctions is crucial for effective data analysis and feature engineering
