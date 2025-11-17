@@ -15,59 +15,6 @@
         1. Identify Beats Product: I selected a beats product, 'Beats Pill Speaker' because it had lots f reviews (my aim was for at least 100 reviews, More reviews mean more data for my analysis!) on Amazon. I copied the URL from the address bar because it is my gateway to all those reviews.
         2. Identify Competitor Products: I selected 11 competitors who had similar products like the Beats pill Speaker, with similar price range, and a good number of reviews. I copied the URLs of these product pages.
 
-## All 12 Products used
-1. BEATS PILL:
-![Beats Pill Speaker - Matte Black](Images/Beats_Pill_Matte_Black.jpg)
-Portable Bluetooth Speaker - Up to 24H Battery Life, Water Resistant, Bluetooth, Apple & Android Compatible, Seriously Loud Sound for Home, Outdoor and Travel - Matte Black
-
-
-2. ALTEC LANSING:
-![Altec Lansing](Images/Altec_Lansing.jpg)
-Altec Lansing Rockbox XL 2.0 Portable Bluetooth Wireless Speakers with Led Lights, IP67 Waterproof and Durable for Outdoor, 20 Hours Battery with App Control
-
-
-3. ANKER SOUNDCORE:
-![Anker Soundcore](Images/Anker_Soundcore.jpg)
-Anker Soundcore Motion+ Bluetooth Speaker with Hi-Res 30W Audio
-
-
-4. BANG & OLUFSEN BEOSOUND:
-![Bang & Olufsen Beosound](Images/Bang_&_Olufsen.jpg)
-Bang & Olufsen Beosound Explore - Wireless Portable Outdoor Bluetooth Speaker, IP 67 Dustproof and Waterproof, Anthracite
-
-
- 5. Bose SoundLink Flex
-
-Bose SoundLink Flex Bluetooth Speaker, Portable Speaker with Microphone, Wireless Waterproof Speaker for Travel, Outdoor and Pool Use, Black
-
-## 6. DOSS SoundBox Plus Bluetooth Speaker
-DOSS SoundBox Ultra Bluetooth Speaker with 2.1 Channel Audio, 80W Superior Sound with Deep Bass, 18H Playtime, Sleek Design-Top White Elephant, Christmas & Birthday Gift for Men, Women, Parents-Grey
-
-## 7. JBL Charge 5 Portable Bluetooth Speaker
-JBL Charge 5 (Teal) + Bundle with divvi! Protective Hardshell Case (Black)
-
-## 8. Marshall Emberton II Portable Bluetooth Speaker, Black & Brass
-Marshall Emberton II Portable Bluetooth Speaker, Black & Brass
-
-## 9. Sony SRS-XB33 Extra Bass Bluetooth Speaker 
-Sony SRS-XB33 EXTRA BASS Wireless Bluetooth Portable Speaker, IP67 Waterproof & Durable for Home, Outdoor, and Travel, 24 Hour Battery, Party Lights, USB Type-C, and Speakerphone, Black
-
-## 10. Sony SRS-XG300 X-Series Wireless Portable-Bluetooth Party-Speaker
-Sony SRS-XG300 X-Series Wireless Portable-Bluetooth Party-Speaker IP67 Waterproof and Dustproof with 25 Hour-Battery and Retractable Handle, Black- New
-
-## 11. Tribit StormBox Blast Portable Speaker
-Tribit StormBox Blast Portable Speaker: 90W Loud Stereo Sound with XBass, IPX7 Waterproof Bluetooth Speaker with LED Light, Bluetooth 5.3&TWS, Custom EQ, 30H Playtime for Outdoor
-
-
-## 12. Ultimate Ears Boom 3 Wireless Bluetooth Speaker
-Ultimate Ears Boom 3 Wireless Bluetooth Speaker, Bold Sound + Deep Bass, Bluetooth, Magic Button, Waterproof, 15 Hours Battery, Range of 150 ft - Ultraviolet Purple
-
-
-
-
-
-Bose SoundLink Flex Bluetooth Speaker, Portable Speaker with Microphone, Wireless Waterproof Speaker
-
 
 ### Step 2: Data Mining – Collecting Amazon Reviews
 
@@ -112,6 +59,7 @@ Bose SoundLink Flex Bluetooth Speaker, Portable Speaker with Microphone, Wireles
     - Download and securely store all final CSV files.
 
 
+# All 12 Products used
 
 ## 1. Beats Pill 
 
@@ -146,4 +94,54 @@ Bang & Olufsen Beosound Explore - Wireless Portable Outdoor Bluetooth Speaker, I
 <img src="Images/Bose_Soundlink_Flex.jpg" width="500" height="200">
 
 Bose SoundLink Flex Bluetooth Speaker, Portable Speaker with Microphone, Wireless Waterproof Speaker for Travel, Outdoor and Pool Use, Black
+
+
+## 6. DOSS SoundBox Plus Bluetooth Speaker
+
+<img src="Images/Doss_Soundbox.jpg" width="500" height="200">
+
+DOSS SoundBox Ultra Bluetooth Speaker with 2.1 Channel Audio, 80W Superior Sound with Deep Bass, 18H Playtime, Sleek Design-Top White Elephant, Christmas & Birthday Gift for Men, Women, Parents-Grey
+
+
+## 7. JBL Charge 5 Portable Bluetooth Speaker
+
+<img src="Images/JBL_Charge5.jpg" width="500" height="200">
+
+JBL Charge 5 (Teal) + Bundle with divvi! Protective Hardshell Case (Black)
+
+
+## 8. Marshall Emberton II Portable Bluetooth Speaker, Black & Brass
+
+<img src="Images/Marshall_Emberton2.jpg" width="500" height="200">
+
+Marshall Emberton II Portable Bluetooth Speaker, Black & Brass
+
+
+## 9. Sony SRS-XB33 Extra Bass Bluetooth Speaker 
+
+<img src="Images/Sony_SRS-XB33.jpg" width="500" height="200">
+
+Sony SRS-XB33 EXTRA BASS Wireless Bluetooth Portable Speaker, IP67 Waterproof & Durable for Home, Outdoor, and Travel, 24 Hour Battery, Party Lights, USB Type-C, and Speakerphone, Black
+
+
+## 10. Sony SRS-XG300 X-Series Wireless Portable-Bluetooth Party-Speaker
+
+<img src="Images/Sony_XG300.jpg" width="500" height="200">
+
+Sony SRS-XG300 X-Series Wireless Portable-Bluetooth Party-Speaker IP67 Waterproof and Dustproof with 25 Hour-Battery and Retractable Handle, Black- New
+
+
+## 11. Tribit StormBox Blast Portable Speaker
+
+<img src="Images/Tribit_StormBox.jpg" width="500" height="200">
+
+Tribit StormBox Blast Portable Speaker: 90W Loud Stereo Sound with XBass, IPX7 Waterproof Bluetooth Speaker with LED Light, Bluetooth 5.3&TWS, Custom EQ, 30H Playtime for Outdoor
+
+
+## 12. Ultimate Ears Boom 3 Wireless Bluetooth Speaker
+
+<img src="Images/Ultimate_Ears_Boom3.jpg" width="500" height="200">
+
+Ultimate Ears Boom 3 Wireless Bluetooth Speaker, Bold Sound + Deep Bass, Bluetooth, Magic Button, Waterproof, 15 Hours Battery, Range of 150 ft - Ultraviolet Purple
+
 
