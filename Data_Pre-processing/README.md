@@ -11,7 +11,7 @@
 3. Save Data: Download the reviews, load, convert and save them as a CSV file.
 
 
-###Step 1: Data Sourcing - Finding Products to Review
+### Step 1: Data Sourcing - Finding Products to Review
         1. Identify Beats Product: I selected a beats product, 'Beats Pill Speaker' because it had lots f reviews (my aim was for at least 100 reviews, More reviews mean more data for my analysis!) on Amazon. I copied the URL from the address bar because it is my gateway to all those reviews.
         2. Identify Competitor Products: I selected 11 competitors wo had similar products like the Beats pill Speaker, with similar price range, and a good number of reviews. I copied the URLs of these product pages.
 

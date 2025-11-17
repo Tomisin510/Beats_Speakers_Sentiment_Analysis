@@ -1,5 +1,7 @@
 # Beats Pill Speaker - Consumer Insights
 
+![Beats Pill Speaker - Matte black](Datasets/Images/Matte_Black.jpg)
+
 A data-driven analysis of real Beats Pill Speaker customer reviews to understand sentiment patterns, identify product strengths, and highlight areas for improvement. This project applies Python, NLP (sentiment analysis), and exploratory data analysis (EDA) to evaluate user feedback across key themes.
 
 ---
